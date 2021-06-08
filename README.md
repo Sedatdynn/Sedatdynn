@@ -44,7 +44,7 @@ I am a software engineer student from North Cyprus🇹🇷 I describe myself as 
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sedatdynn&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sedatdynn&theme=tokyonight" />
    
-   [![Sedat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sedatdynn&theme=react-dark)](https://git.io/JGdfB)
+   [![Sedat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sedatdynn&theme=react-dark)](https://git.io/JZOTU)
 </p>
 
 <br>
