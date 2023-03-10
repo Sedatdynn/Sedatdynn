@@ -1,8 +1,7 @@
 ### Hello everyone! I am Sedat Dayan  👋
 
 
-
-I am a software engineer student from North Cyprus🇹🇷 I describe myself as a Flutter and Python.  I love to code with Flutter. Love to learn new things. You can reach me via gmail , dayan.sedat1998@gmail.com
+I am a software engineer from Turkey.I describe myself as a innovative person.I love to code with Flutter. Love to learn new technologies. You can reach me via gmail , dayan.sedat1998@gmail.com
 
 
 **📫 Where to find me:** 
